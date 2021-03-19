@@ -1,0 +1,2 @@
+Átneveztem a time.c és time.h moduljaimat, hogy ne egyezzen meg a C-ben már létezővel.
+Lecsökkentettem a logic.c-ben lévő függvényeim hosszát a szerintem minimálisra.
